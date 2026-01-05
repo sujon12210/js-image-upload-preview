@@ -1,0 +1,23 @@
+body{
+  font-family:Arial;
+  height:100vh;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  background:#f8fafc;
+}
+
+.box{
+  background:white;
+  padding:30px;
+  border-radius:8px;
+  width:280px;
+  text-align:center;
+}
+
+img{
+  margin-top:10px;
+  width:100%;
+  display:none;
+  border-radius:6px;
+}
